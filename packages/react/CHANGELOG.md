@@ -1,4 +1,10 @@
-# @ignite-ui/react
+# @germanoricardi-ignite-ui/react
+
+## 2.0.0
+
+### Major Changes
+
+- Primeira release
 
 ## 1.0.1
 

@@ -1,0 +1,2 @@
+import{A as r}from"./index.714c05bd.js";import"./index.881f7b3f.js";import"./iframe.782928aa.js";import"./index.7c8cb65f.js";import"./jsx-runtime.91da11dd.js";const c={title:"Data display/Avatar",component:r,args:{src:"https://github.com/germanoricardi.png",alt:"Germano Ricardi"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},e=["Primary","WithFallback"];export{m as Primary,p as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.00ad0115.js.map
